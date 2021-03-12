@@ -1,4 +1,4 @@
-##Both datasets and figures producing collaboratories for Delivarble 3.
+#Both datasets and figures producing collaboratories for Deliverable 3.
 
 Formatted Data
 ![Command Line Format](https://cdn.discordapp.com/attachments/215581700556718080/819845123876847646/unknown.png)
